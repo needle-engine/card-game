@@ -1,0 +1,12 @@
+{
+  "needleEditor": null,
+  "meta": null,
+  "absolutePath": null,
+  "sceneName": "Card Game",
+  "deployOnly": false,
+  "generator": "Needle Engine for Unity 3.5.9-pre.2",
+  "gzip": true,
+  "allowHotReload": true,
+  "license": "basic",
+  "useRapier": true
+}
